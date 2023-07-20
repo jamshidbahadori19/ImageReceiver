@@ -1,11 +1,11 @@
 # ImageReceiver
 This is an MVP project which built with the MERN stack (MongoDB, Express.js, React, Node.js) and unsplash API. The Express server is responsible for handling API requests.
 
-Features:
+# Features
 
 User Registration and Login : Register, login and logout functionality for users using bcrypt for password hashing and JWT (JSON Web Token) for secure authentication.
 
-Dependencies:
+# Dependencies
 
 express : A fast and minimalistic web application framework for Node.js, providing robust routing and middleware capabilities
 
