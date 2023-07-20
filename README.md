@@ -18,12 +18,12 @@ dotenv: A module for loading environment variables from a .env file into process
 bcrypt: A library for hashing passwords and comparing hashed passwords during authentication
 
 jsonwebtoken: A library for generating and verifying JSON Web Tokens (JWT) for secure authentication and authorization.
-![1-signUp](https://github.com/jamshidbahadori19/ImageReceiver/assets/90925794/c14390cf-b86d-481a-b849-43509f7ec301)
 
-![2-login](https://github.com/jamshidbahadori19/ImageReceiver/assets/90925794/66a2d0ef-8903-4bf3-a8b4-6f1c721c7843)
+![1-signUp](https://github.com/jamshidbahadori19/ImageReceiver/assets/90925794/d56a5e22-1dca-403f-9f61-3666166845ce)
 
+![2-login](https://github.com/jamshidbahadori19/ImageReceiver/assets/90925794/4cd37d5b-9f9f-493e-a402-e6cd120adf15)
 
-![3-fetchData](https://github.com/jamshidbahadori19/ImageReceiver/assets/90925794/9ac03409-f707-48a8-86cc-cd1b64b1c528)
+![3-fetchData](https://github.com/jamshidbahadori19/ImageReceiver/assets/90925794/e9fefd74-6012-4f26-b274-004c24619cb4)
 
-![4-wishList](https://github.com/jamshidbahadori19/ImageReceiver/assets/90925794/e165378a-3c8e-4c69-b7ba-8bb0352bd4c0)
+![4-wishList](https://github.com/jamshidbahadori19/ImageReceiver/assets/90925794/cc034117-442d-4140-8d0f-0074646cd63c)
 
